@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name video)(type KiCad)(uri ${KIPRJMOD}/video.pretty)(options "")(descr ""))
+)

@@ -1,0 +1,1 @@
+gcc -o genmap.exe genmap.c

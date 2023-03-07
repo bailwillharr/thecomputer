@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "74xx")(type "Legacy")(uri "/home/bailey/kicad/libraries/old_builtins/74xx.lib")(options "")(descr ""))
+  (lib (name "4xxx_IEEE")(type "Legacy")(uri "/home/bailey/kicad/libraries/old_builtins/4xxx_IEEE.lib")(options "")(descr ""))
+  (lib (name "Memory_RAM")(type "Legacy")(uri "/home/bailey/kicad/libraries/old_builtins/Memory_RAM.lib")(options "")(descr ""))
+  (lib (name "computer-rescue")(type "Legacy")(uri "${KIPRJMOD}/computer-rescue.lib")(options "")(descr ""))
+)

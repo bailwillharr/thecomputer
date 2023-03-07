@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name 74xx)(type Legacy)(uri /home/bailey/kicad/libraries/old_builtins/74xx.lib)(options "")(descr ""))
+)
