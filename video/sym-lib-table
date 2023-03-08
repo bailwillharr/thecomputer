@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name video-rescue)(type Legacy)(uri ${KIPRJMOD}/video-rescue.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "my_library")(type "KiCad")(uri "C:/Users/Bailey/source/repos/thecomputer/libraries/my_library.kicad_sym")(options "")(descr ""))
 )

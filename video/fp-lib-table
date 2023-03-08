@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name video)(type KiCad)(uri ${KIPRJMOD}/video.pretty)(options "")(descr ""))
+  (version 7)
+  (lib (name "my_footprints")(type "KiCad")(uri "C:/Users/Bailey/source/repos/thecomputer/libraries/my_footprints")(options "")(descr ""))
 )
