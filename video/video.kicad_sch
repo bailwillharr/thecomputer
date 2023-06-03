@@ -1412,6 +1412,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 13bbfffc-affb-4b43-9eb1-f2ed90a8a919)
   )
+  (text "Maybe put PIX_CLK through 2 NOT gates\nto delay it a bit for the TILE_LOGIC"
+    (at 212.09 54.61 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 265a74f4-ef29-4805-bea5-544e1c6baa7e)
+  )
   (text "row / column counters\nand sync / blank signals" (at 167.64 85.09 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f5c43e09-08d6-4a29-a53a-3b9ea7fb34cd)
